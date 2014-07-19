@@ -1,0 +1,38 @@
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo.DAL\bin\Debug\CodeNameBravo.DAL.dll.config
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo.DAL\bin\Debug\CodeNameBravo.DAL.dll
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo.DAL\bin\Debug\CodeNameBravo.DAL.pdb
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo.DAL\bin\Debug\CodeNameBravo.DomainEntities.dll
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo.DAL\bin\Debug\EntityFramework.dll
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo.DAL\bin\Debug\CodeNameBravo.DomainEntities.pdb
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo.DAL\bin\Debug\EntityFramework.xml
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo.DAL\obj\Debug\CodeNameBravo.DAL.csprojResolveAssemblyReference.cache
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo.DAL\obj\Debug\CodeNameBravo.Web.DAL.Migrations.FirstMigration.resources
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo.DAL\obj\Debug\CodeNameBravo.DAL.csproj.GenerateResource.Cache
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo.DAL\obj\Debug\CodeNameBravo.DAL.dll
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo.DAL\obj\Debug\CodeNameBravo.DAL.pdb
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\DataAccessLayer\CodeNameBravo.DAL\bin\Debug\CodeNameBravo.DAL.dll.config
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\DataAccessLayer\CodeNameBravo.DAL\bin\Debug\CodeNameBravo.DAL.dll
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\DataAccessLayer\CodeNameBravo.DAL\bin\Debug\CodeNameBravo.DAL.pdb
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\DataAccessLayer\CodeNameBravo.DAL\obj\Debug\CodeNameBravo.Web.DAL.Migrations.FirstMigration.resources
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\DataAccessLayer\CodeNameBravo.DAL\obj\Debug\CodeNameBravo.DAL.csproj.GenerateResource.Cache
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\DataAccessLayer\CodeNameBravo.DAL\obj\Debug\CodeNameBravo.DAL.dll
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\DataAccessLayer\CodeNameBravo.DAL\obj\Debug\CodeNameBravo.DAL.pdb
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\DataAccessLayer\CodeNameBravo.DAL\bin\Debug\CodeNameBravo.Domain.Entities.dll
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\DataAccessLayer\CodeNameBravo.DAL\bin\Debug\CodeNameBravo.Domain.Entities.pdb
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\DataAccessLayer\CodeNameBravo.DAL\obj\Debug\CodeNameBravo.DAL.csprojResolveAssemblyReference.cache
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\DataAccessLayer\CodeNameBravo.DAL\bin\Debug\CodeNameBravo.DAL.Interfaces.dll
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\DataAccessLayer\CodeNameBravo.DAL\bin\Debug\CodeNameBravo.DAL.Interfaces.pdb
+D:\Code\GitHub\WebTemplate\CodeNameBravo\DataAccessLayer\CodeNameBravo.DAL\bin\Debug\CodeNameBravo.DAL.dll.config
+D:\Code\GitHub\WebTemplate\CodeNameBravo\DataAccessLayer\CodeNameBravo.DAL\bin\Debug\CodeNameBravo.DAL.dll
+D:\Code\GitHub\WebTemplate\CodeNameBravo\DataAccessLayer\CodeNameBravo.DAL\bin\Debug\CodeNameBravo.DAL.pdb
+D:\Code\GitHub\WebTemplate\CodeNameBravo\DataAccessLayer\CodeNameBravo.DAL\bin\Debug\CodeNameBravo.DAL.Interfaces.dll
+D:\Code\GitHub\WebTemplate\CodeNameBravo\DataAccessLayer\CodeNameBravo.DAL\bin\Debug\CodeNameBravo.Domain.Entities.dll
+D:\Code\GitHub\WebTemplate\CodeNameBravo\DataAccessLayer\CodeNameBravo.DAL\bin\Debug\CodeNameBravo.Domain.Entities.pdb
+D:\Code\GitHub\WebTemplate\CodeNameBravo\DataAccessLayer\CodeNameBravo.DAL\bin\Debug\CodeNameBravo.DAL.Interfaces.pdb
+D:\Code\GitHub\WebTemplate\CodeNameBravo\DataAccessLayer\CodeNameBravo.DAL\obj\Debug\CodeNameBravo.DAL.csprojResolveAssemblyReference.cache
+D:\Code\GitHub\WebTemplate\CodeNameBravo\DataAccessLayer\CodeNameBravo.DAL\obj\Debug\CodeNameBravo.DAL.dll
+D:\Code\GitHub\WebTemplate\CodeNameBravo\DataAccessLayer\CodeNameBravo.DAL\obj\Debug\CodeNameBravo.DAL.pdb
+D:\Code\GitHub\WebTemplate\CodeNameBravo\DataAccessLayer\CodeNameBravo.DAL\obj\Debug\CodeNameBravo.Web.DAL.Migrations.First.resources
+D:\Code\GitHub\WebTemplate\CodeNameBravo\DataAccessLayer\CodeNameBravo.DAL\obj\Debug\CodeNameBravo.DAL.csproj.GenerateResource.Cache

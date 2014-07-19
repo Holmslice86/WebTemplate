@@ -1,0 +1,110 @@
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo\bin\Scripts\App\Data\stores.json
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo\bin\CodeNameBravo.dll.config
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo\bin\CodeNameBravo.dll
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo\bin\CodeNameBravo.pdb
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo\bin\Antlr3.Runtime.dll
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo\bin\CodeNameBravo.DomainEntities.dll
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo\bin\CodeNameBravo.DomainInterfaces.dll
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo\bin\CodeNameBravo.Init.dll
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo\bin\Microsoft.Practices.Unity.dll
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo\bin\Newtonsoft.Json.dll
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo\bin\System.Net.Http.Formatting.dll
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo\bin\System.Web.Helpers.dll
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo\bin\System.Web.Http.dll
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo\bin\System.Web.Http.WebHost.dll
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo\bin\System.Web.Mvc.dll
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo\bin\System.Web.Optimization.dll
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo\bin\System.Web.Razor.dll
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo\bin\System.Web.WebPages.dll
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo\bin\System.Web.WebPages.Razor.dll
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo\bin\WebGrease.dll
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo\bin\CodeNameBravo.DomainServices.dll
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo\bin\CodeNameBravo.DAL.dll
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo\bin\EntityFramework.dll
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo\bin\CodeNameBravo.DomainEntities.pdb
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo\bin\CodeNameBravo.DomainInterfaces.pdb
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo\bin\CodeNameBravo.Init.pdb
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo\bin\Antlr3.Runtime.pdb
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo\bin\Microsoft.Practices.Unity.xml
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo\bin\Newtonsoft.Json.xml
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo\bin\System.Net.Http.Formatting.xml
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo\bin\System.Web.Helpers.xml
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo\bin\System.Web.Http.xml
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo\bin\System.Web.Http.WebHost.xml
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo\bin\System.Web.Mvc.xml
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo\bin\System.Web.Optimization.xml
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo\bin\System.Web.Razor.xml
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo\bin\System.Web.WebPages.xml
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo\bin\System.Web.WebPages.Razor.xml
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo\bin\CodeNameBravo.DomainServices.pdb
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo\bin\CodeNameBravo.DAL.pdb
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo\bin\EntityFramework.xml
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo\obj\Debug\CodeNameBravo.Web.csprojResolveAssemblyReference.cache
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo\obj\Debug\CodeNameBravo.dll
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo\obj\Debug\CodeNameBravo.pdb
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\PresentationLayer\CodeNameBravo\obj\Debug\CodeNameBravo.Web.csprojResolveAssemblyReference.cache
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\PresentationLayer\CodeNameBravo\bin\Scripts\App\Data\stores.json
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\PresentationLayer\CodeNameBravo\bin\CodeNameBravo.dll.config
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\PresentationLayer\CodeNameBravo\bin\CodeNameBravo.dll
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\PresentationLayer\CodeNameBravo\bin\CodeNameBravo.pdb
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\PresentationLayer\CodeNameBravo\bin\CodeNameBravo.Init.dll
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\PresentationLayer\CodeNameBravo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\PresentationLayer\CodeNameBravo\bin\System.Net.Http.Formatting.dll
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\PresentationLayer\CodeNameBravo\bin\System.Web.Http.dll
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\PresentationLayer\CodeNameBravo\bin\System.Web.Http.WebHost.dll
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\PresentationLayer\CodeNameBravo\bin\CodeNameBravo.DAL.dll
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\PresentationLayer\CodeNameBravo\bin\EntityFramework.dll
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\PresentationLayer\CodeNameBravo\bin\CodeNameBravo.Init.pdb
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\PresentationLayer\CodeNameBravo\bin\Antlr3.Runtime.pdb
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\PresentationLayer\CodeNameBravo\bin\Microsoft.Practices.Unity.xml
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\PresentationLayer\CodeNameBravo\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\PresentationLayer\CodeNameBravo\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\PresentationLayer\CodeNameBravo\bin\Newtonsoft.Json.xml
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\PresentationLayer\CodeNameBravo\bin\System.Net.Http.Formatting.xml
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\PresentationLayer\CodeNameBravo\bin\System.Web.Http.xml
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\PresentationLayer\CodeNameBravo\bin\System.Web.Http.WebHost.xml
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\PresentationLayer\CodeNameBravo\bin\System.Web.Optimization.xml
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\PresentationLayer\CodeNameBravo\bin\CodeNameBravo.DAL.pdb
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\PresentationLayer\CodeNameBravo\obj\Debug\CodeNameBravo.dll
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\PresentationLayer\CodeNameBravo\obj\Debug\CodeNameBravo.pdb
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\PresentationLayer\CodeNameBravo\bin\CodeNameBravo.Domain.Entities.dll
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\PresentationLayer\CodeNameBravo\bin\CodeNameBravo.Domain.Interfaces.dll
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\PresentationLayer\CodeNameBravo\bin\CodeNameBravo.Domain.Services.dll
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\PresentationLayer\CodeNameBravo\bin\CodeNameBravo.Domain.Entities.pdb
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\PresentationLayer\CodeNameBravo\bin\CodeNameBravo.Domain.Interfaces.pdb
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\PresentationLayer\CodeNameBravo\bin\CodeNameBravo.Domain.Services.pdb
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\PresentationLayer\CodeNameBravo\bin\CodeNameBravo.DAL.Interfaces.dll
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\PresentationLayer\CodeNameBravo\bin\CodeNameBravo.DAL.Interfaces.pdb
+D:\Code\GitHub\WebTemplate\CodeNameBravo\PresentationLayer\CodeNameBravo\bin\Scripts\App\Data\stores.json
+D:\Code\GitHub\WebTemplate\CodeNameBravo\PresentationLayer\CodeNameBravo\bin\CodeNameBravo.dll.config
+D:\Code\GitHub\WebTemplate\CodeNameBravo\PresentationLayer\CodeNameBravo\bin\CodeNameBravo.dll
+D:\Code\GitHub\WebTemplate\CodeNameBravo\PresentationLayer\CodeNameBravo\bin\CodeNameBravo.pdb
+D:\Code\GitHub\WebTemplate\CodeNameBravo\PresentationLayer\CodeNameBravo\bin\CodeNameBravo.Domain.Entities.dll
+D:\Code\GitHub\WebTemplate\CodeNameBravo\PresentationLayer\CodeNameBravo\bin\CodeNameBravo.Domain.Interfaces.dll
+D:\Code\GitHub\WebTemplate\CodeNameBravo\PresentationLayer\CodeNameBravo\bin\CodeNameBravo.Init.dll
+D:\Code\GitHub\WebTemplate\CodeNameBravo\PresentationLayer\CodeNameBravo\bin\Microsoft.Web.Infrastructure.dll
+D:\Code\GitHub\WebTemplate\CodeNameBravo\PresentationLayer\CodeNameBravo\bin\System.Net.Http.Formatting.dll
+D:\Code\GitHub\WebTemplate\CodeNameBravo\PresentationLayer\CodeNameBravo\bin\System.Web.Http.dll
+D:\Code\GitHub\WebTemplate\CodeNameBravo\PresentationLayer\CodeNameBravo\bin\System.Web.Http.WebHost.dll
+D:\Code\GitHub\WebTemplate\CodeNameBravo\PresentationLayer\CodeNameBravo\bin\CodeNameBravo.Domain.Services.dll
+D:\Code\GitHub\WebTemplate\CodeNameBravo\PresentationLayer\CodeNameBravo\bin\CodeNameBravo.DAL.Interfaces.dll
+D:\Code\GitHub\WebTemplate\CodeNameBravo\PresentationLayer\CodeNameBravo\bin\CodeNameBravo.DAL.dll
+D:\Code\GitHub\WebTemplate\CodeNameBravo\PresentationLayer\CodeNameBravo\bin\EntityFramework.dll
+D:\Code\GitHub\WebTemplate\CodeNameBravo\PresentationLayer\CodeNameBravo\bin\CodeNameBravo.Domain.Entities.pdb
+D:\Code\GitHub\WebTemplate\CodeNameBravo\PresentationLayer\CodeNameBravo\bin\CodeNameBravo.Domain.Interfaces.pdb
+D:\Code\GitHub\WebTemplate\CodeNameBravo\PresentationLayer\CodeNameBravo\bin\CodeNameBravo.Init.pdb
+D:\Code\GitHub\WebTemplate\CodeNameBravo\PresentationLayer\CodeNameBravo\bin\Microsoft.Web.Infrastructure.xml
+D:\Code\GitHub\WebTemplate\CodeNameBravo\PresentationLayer\CodeNameBravo\bin\System.Net.Http.Formatting.xml
+D:\Code\GitHub\WebTemplate\CodeNameBravo\PresentationLayer\CodeNameBravo\bin\System.Web.Http.xml
+D:\Code\GitHub\WebTemplate\CodeNameBravo\PresentationLayer\CodeNameBravo\bin\System.Web.Http.WebHost.xml
+D:\Code\GitHub\WebTemplate\CodeNameBravo\PresentationLayer\CodeNameBravo\bin\CodeNameBravo.Domain.Services.pdb
+D:\Code\GitHub\WebTemplate\CodeNameBravo\PresentationLayer\CodeNameBravo\bin\CodeNameBravo.DAL.Interfaces.pdb
+D:\Code\GitHub\WebTemplate\CodeNameBravo\PresentationLayer\CodeNameBravo\bin\CodeNameBravo.DAL.pdb
+D:\Code\GitHub\WebTemplate\CodeNameBravo\PresentationLayer\CodeNameBravo\obj\Debug\CodeNameBravo.Web.csprojResolveAssemblyReference.cache
+D:\Code\GitHub\WebTemplate\CodeNameBravo\PresentationLayer\CodeNameBravo\obj\Debug\CodeNameBravo.dll
+D:\Code\GitHub\WebTemplate\CodeNameBravo\PresentationLayer\CodeNameBravo\obj\Debug\CodeNameBravo.pdb

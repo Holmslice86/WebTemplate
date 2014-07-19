@@ -1,0 +1,14 @@
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\BusinessLayer\CodeNameBravo.DomainInterfaces\bin\Debug\CodeNameBravo.Domain.Interfaces.dll
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\BusinessLayer\CodeNameBravo.DomainInterfaces\bin\Debug\CodeNameBravo.Domain.Interfaces.pdb
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\BusinessLayer\CodeNameBravo.DomainInterfaces\bin\Debug\CodeNameBravo.Domain.Entities.dll
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\BusinessLayer\CodeNameBravo.DomainInterfaces\bin\Debug\CodeNameBravo.Domain.Entities.pdb
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\BusinessLayer\CodeNameBravo.DomainInterfaces\obj\Debug\CodeNameBravo.Domain.Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\BusinessLayer\CodeNameBravo.DomainInterfaces\obj\Debug\CodeNameBravo.Domain.Interfaces.dll
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\BusinessLayer\CodeNameBravo.DomainInterfaces\obj\Debug\CodeNameBravo.Domain.Interfaces.pdb
+D:\Code\GitHub\WebTemplate\CodeNameBravo\BusinessLayer\CodeNameBravo.DomainInterfaces\bin\Debug\CodeNameBravo.Domain.Interfaces.dll
+D:\Code\GitHub\WebTemplate\CodeNameBravo\BusinessLayer\CodeNameBravo.DomainInterfaces\bin\Debug\CodeNameBravo.Domain.Interfaces.pdb
+D:\Code\GitHub\WebTemplate\CodeNameBravo\BusinessLayer\CodeNameBravo.DomainInterfaces\bin\Debug\CodeNameBravo.Domain.Entities.dll
+D:\Code\GitHub\WebTemplate\CodeNameBravo\BusinessLayer\CodeNameBravo.DomainInterfaces\bin\Debug\CodeNameBravo.Domain.Entities.pdb
+D:\Code\GitHub\WebTemplate\CodeNameBravo\BusinessLayer\CodeNameBravo.DomainInterfaces\obj\Debug\CodeNameBravo.Domain.Interfaces.csprojResolveAssemblyReference.cache
+D:\Code\GitHub\WebTemplate\CodeNameBravo\BusinessLayer\CodeNameBravo.DomainInterfaces\obj\Debug\CodeNameBravo.Domain.Interfaces.dll
+D:\Code\GitHub\WebTemplate\CodeNameBravo\BusinessLayer\CodeNameBravo.DomainInterfaces\obj\Debug\CodeNameBravo.Domain.Interfaces.pdb

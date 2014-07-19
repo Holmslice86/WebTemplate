@@ -1,0 +1,14 @@
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo.DAL.Interfaces\bin\Debug\CodeNameBravo.DAL.Interfaces.dll
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo.DAL.Interfaces\bin\Debug\CodeNameBravo.DAL.Interfaces.pdb
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo.DAL.Interfaces\bin\Debug\CodeNameBravo.Domain.Entities.dll
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo.DAL.Interfaces\bin\Debug\CodeNameBravo.Domain.Entities.pdb
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo.DAL.Interfaces\obj\Debug\CodeNameBravo.DAL.Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo.DAL.Interfaces\obj\Debug\CodeNameBravo.DAL.Interfaces.dll
+C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo.DAL.Interfaces\obj\Debug\CodeNameBravo.DAL.Interfaces.pdb
+D:\Code\GitHub\WebTemplate\CodeNameBravo\DataAccessLayer\CodeNameBravo.DAL.Interfaces\bin\Debug\CodeNameBravo.DAL.Interfaces.dll
+D:\Code\GitHub\WebTemplate\CodeNameBravo\DataAccessLayer\CodeNameBravo.DAL.Interfaces\bin\Debug\CodeNameBravo.DAL.Interfaces.pdb
+D:\Code\GitHub\WebTemplate\CodeNameBravo\DataAccessLayer\CodeNameBravo.DAL.Interfaces\bin\Debug\CodeNameBravo.Domain.Entities.dll
+D:\Code\GitHub\WebTemplate\CodeNameBravo\DataAccessLayer\CodeNameBravo.DAL.Interfaces\bin\Debug\CodeNameBravo.Domain.Entities.pdb
+D:\Code\GitHub\WebTemplate\CodeNameBravo\DataAccessLayer\CodeNameBravo.DAL.Interfaces\obj\Debug\CodeNameBravo.DAL.Interfaces.csprojResolveAssemblyReference.cache
+D:\Code\GitHub\WebTemplate\CodeNameBravo\DataAccessLayer\CodeNameBravo.DAL.Interfaces\obj\Debug\CodeNameBravo.DAL.Interfaces.dll
+D:\Code\GitHub\WebTemplate\CodeNameBravo\DataAccessLayer\CodeNameBravo.DAL.Interfaces\obj\Debug\CodeNameBravo.DAL.Interfaces.pdb
