@@ -1,0 +1,16 @@
+/CodeNameBravo/*.suo
+/CodeNameBravo/BusinessLayer/CodeNameBravo.DomainEntities/bin
+/CodeNameBravo/BusinessLayer/CodeNameBravo.DomainEntities/obj
+/CodeNameBravo/BusinessLayer/CodeNameBravo.DomainInterfaces/bin
+/CodeNameBravo/BusinessLayer/CodeNameBravo.DomainServices/bin
+/CodeNameBravo/BusinessLayer/CodeNameBravo.DomainServices/obj
+/CodeNameBravo/DataAccessLayer/CodeNameBravo.DAL/obj
+/CodeNameBravo/DataAccessLayer/CodeNameBravo.DAL/bin
+/CodeNameBravo/DataAccessLayer/CodeNameBravo.DAL.Interfaces/obj
+/CodeNameBravo/DataAccessLayer/CodeNameBravo.DAL.Interfaces/bin
+/CodeNameBravo/PresentationLayer/CodeNameBravo/obj
+/CodeNameBravo/PresentationLayer/CodeNameBravo/bin
+/CodeNameBravo/PresentationLayer/CodeNameBravo.Init/obj
+/CodeNameBravo/PresentationLayer/CodeNameBravo.Init/bin
+/CodeNameBravo/CodeNameBravo.Test/obj
+/CodeNameBravo/CodeNameBravo.Test/bin
