@@ -1,7 +1,0 @@
-C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo.DomainInterfaces\bin\Debug\CodeNameBravo.DomainInterfaces.dll
-C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo.DomainInterfaces\bin\Debug\CodeNameBravo.DomainInterfaces.pdb
-C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo.DomainInterfaces\bin\Debug\CodeNameBravo.DomainEntities.dll
-C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo.DomainInterfaces\bin\Debug\CodeNameBravo.DomainEntities.pdb
-C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo.DomainInterfaces\obj\Debug\CodeNameBravo.DomainInterfaces.csprojResolveAssemblyReference.cache
-C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo.DomainInterfaces\obj\Debug\CodeNameBravo.DomainInterfaces.dll
-C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo.DomainInterfaces\obj\Debug\CodeNameBravo.DomainInterfaces.pdb

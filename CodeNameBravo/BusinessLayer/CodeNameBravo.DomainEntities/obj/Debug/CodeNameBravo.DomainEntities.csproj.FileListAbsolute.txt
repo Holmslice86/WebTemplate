@@ -1,9 +1,0 @@
-C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo.DomainEntities\bin\Debug\CodeNameBravo.DomainEntities.dll.config
-C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo.DomainEntities\bin\Debug\CodeNameBravo.DomainEntities.dll
-C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo.DomainEntities\bin\Debug\CodeNameBravo.DomainEntities.pdb
-C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo.DomainEntities\bin\Debug\EntityFramework.dll
-C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo.DomainEntities\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo.DomainEntities\bin\Debug\EntityFramework.xml
-C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo.DomainEntities\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo.DomainEntities\obj\Debug\CodeNameBravo.DomainEntities.dll
-C:\Users\aholm\Documents\Visual Studio 2013\Projects\CodeNameBravo\CodeNameBravo.DomainEntities\obj\Debug\CodeNameBravo.DomainEntities.pdb
