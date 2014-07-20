@@ -14,7 +14,7 @@ namespace CodeNameBravo.Web.DAL.DataEntities
         public CodeNameBravoContext()
             : base("BravoConnection")
         {
-
+            var _ = typeof(System.Data.Entity.SqlServer.SqlProviderServices);
 
         }
 
