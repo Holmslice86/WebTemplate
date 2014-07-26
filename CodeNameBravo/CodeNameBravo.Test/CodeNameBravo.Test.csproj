@@ -38,10 +38,11 @@
   <ItemGroup>
     <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\packages\EntityFramework.6.1.0\lib\net45\EntityFramework.dll</HintPath>
+      <HintPath>..\packages\EntityFramework.6.1.1\lib\net45\EntityFramework.dll</HintPath>
     </Reference>
-    <Reference Include="EntityFramework.SqlServer">
-      <HintPath>..\packages\EntityFramework.6.1.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\EntityFramework.6.1.1\lib\net45\EntityFramework.SqlServer.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
@@ -63,34 +64,34 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
     <ProjectReference Include="..\BusinessLayer\CodeNameBravo.DomainEntities\CodeNameBravo.Domain.Entities.csproj">
       <Project>{8df45edb-ebf2-466c-81a3-f4fb8999f636}</Project>
       <Name>CodeNameBravo.Domain.Entities</Name>
     </ProjectReference>
     <ProjectReference Include="..\BusinessLayer\CodeNameBravo.DomainInterfaces\CodeNameBravo.Domain.Interfaces.csproj">
-      <Project>{AB612207-78F1-422C-BA9F-E839367EFC2C}</Project>
+      <Project>{ab612207-78f1-422c-ba9f-e839367efc2c}</Project>
       <Name>CodeNameBravo.Domain.Interfaces</Name>
     </ProjectReference>
     <ProjectReference Include="..\BusinessLayer\CodeNameBravo.DomainServices\CodeNameBravo.Domain.Services.csproj">
-      <Project>{11F162FB-2730-4EEC-B71E-071F049CC0A7}</Project>
+      <Project>{11f162fb-2730-4eec-b71e-071f049cc0a7}</Project>
       <Name>CodeNameBravo.Domain.Services</Name>
     </ProjectReference>
     <ProjectReference Include="..\DataAccessLayer\CodeNameBravo.DAL.Interfaces\CodeNameBravo.DAL.Interfaces.csproj">
-      <Project>{63FF711A-33EC-4E5F-A32F-219026DF33B5}</Project>
+      <Project>{63ff711a-33ec-4e5f-a32f-219026df33b5}</Project>
       <Name>CodeNameBravo.DAL.Interfaces</Name>
     </ProjectReference>
     <ProjectReference Include="..\DataAccessLayer\CodeNameBravo.DAL\CodeNameBravo.DAL.csproj">
-      <Project>{2A17244F-C5A0-4AD8-93E0-74CD8EF3384A}</Project>
+      <Project>{2a17244f-c5a0-4ad8-93e0-74cd8ef3384a}</Project>
       <Name>CodeNameBravo.DAL</Name>
     </ProjectReference>
     <ProjectReference Include="..\PresentationLayer\CodeNameBravo\CodeNameBravo.Web.csproj">
       <Project>{6c15533a-e818-4328-87cb-f03f3e5d603d}</Project>
       <Name>CodeNameBravo.Web</Name>
     </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="App.config" />
-    <None Include="packages.config" />
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
