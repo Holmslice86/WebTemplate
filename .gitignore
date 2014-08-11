@@ -1,4 +1,4 @@
 bin
 obj
-/CodeNameBravo/*.suo
-/CodeNameBravo/*.user
+*.suo
+*.user
